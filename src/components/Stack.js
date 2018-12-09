@@ -26,7 +26,8 @@ var styles = {
     borderRadius: '50%'
   },
   container: {
-    margin: '1.5rem'
+    margin: '1.5rem',
+    transition: 'all 1s'
   },
   boxshadow: {
     boxShadow: '0 3px 6px rgba(0,0,0,0.16), 0 3px 6px rgba(0,0,0,0.23)'
